@@ -1,0 +1,8 @@
+Data science is a way of extracting insights from large volumes of disparate data.
+Data science involves drawing patterns from seemingly random structured and unstructured type of data.
+Data Science is a detailed study of the flow of information from the colossal amounts of data present in an organization's repository. It involves obtaining meaningful insights from raw and unstructured data which is processed through analytical, programming, and business skills.
+
+Data scientists:
+Data scientists are curious and analytical thinkers who use a variety of math skills not limited to Mathematics, Statistics and Probability to solve a problem.
+They apply different available methods and algorithms to draw insights and conclusions from various kinds of data.
+After applying data science methodologies, they are effective communicators and story tellers who can present their findings often to present new findings or confirm what was initially suspected.
